@@ -11,7 +11,7 @@ import Foundation
 struct TriviaAPI: TriviaAPIProviding {
     
     func loadTriviaQuestions() -> String {
-      return "Ok"
+      return "modificado"
     }
     
 } 
