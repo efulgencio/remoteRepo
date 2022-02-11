@@ -8,10 +8,10 @@
 
 import Foundation
 
-struct TriviaAPI: TriviaAPIProviding {
+struct TriviaAPI {
     
     func loadTriviaQuestions() -> String {
-      return "modificado"
+      return "modificado is no protocol" 
     }
     
 } 
